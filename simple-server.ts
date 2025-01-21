@@ -1,6 +1,8 @@
 import { ApolloServer, gql } from 'apollo-server'
 import { randomUUID } from 'node:crypto'
 
+
+// Schema first
 const typeDefs = gql`
     type User {
         id: String!
