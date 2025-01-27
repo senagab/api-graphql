@@ -7,3 +7,5 @@
     <img src="https://img.shields.io/badge/graphql-v16.10.0-white?logo=graphql&labelColor=black" alt="GraphQL version">
     <img src="https://img.shields.io/badge/apolloserver-v3.13.0-white?logo=apolloserver&labelColor=blue" alt="Apollo Server version">
 </p>
+
+API with the goal of managing appointments.
